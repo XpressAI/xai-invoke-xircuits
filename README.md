@@ -1,6 +1,6 @@
 # Invoke Xircuits Components
 
-Component library for invoking other .xircuits files.
+Component library for invoking other .xircuits files.  Combine this with [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit) and watch the **magic** happen.
 
 ![invoke](https://github.com/XpressAI/xai-invoke-xircuits/blob/main/invoke.png)
 
