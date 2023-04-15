@@ -4,7 +4,7 @@ Component library for invoking other .xircuits files.
 
 ![invoke](https://github.com/XpressAI/xai-invoke-xircuits/blob/main/invoke.png)
 
-![output] (https://github.com/XpressAI/xai-invoke-xircuits/blob/main/output.png)
+![output](https://github.com/XpressAI/xai-invoke-xircuits/blob/main/output.png)
 
 ## Components
 
